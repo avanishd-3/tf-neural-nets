@@ -25,3 +25,4 @@ There are 3 models here.
 1. Classification model based on the Fashion MNIST dataset
 2. Regression model based on the Auto MPG dataset
 3. High-accuracy classification model based on the MNIST dataset (~97% accuracy).
+4. CIFAR-10 ANN model (~49% accuracy, which is pretty high for a non-CNN model on an image-recognition dataset)
