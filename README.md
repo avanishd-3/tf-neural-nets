@@ -1,4 +1,4 @@
-# tf-neural-networks
+# tf-neural-nets
 Collection of neural netwworks made with TensorFlow and Keras.
 
 Each network also includes the model weights in a .keras file.
