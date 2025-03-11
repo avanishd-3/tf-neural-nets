@@ -31,4 +31,4 @@ There are 3 models here.
 
 There is 1 model here.
 
-1. Classification model based on the Fashion MNIST dataset (~91% accuracy, which is pretty good for no hyper-parameter tuning).
+1. Classification model based on the Fashion MNIST dataset (~91.5% accuracy).
