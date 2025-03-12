@@ -32,3 +32,6 @@ There are 3 models here.
 There is 1 model here.
 
 1. Classification model based on the Fashion MNIST dataset (~91.5% accuracy).
+2. Transfer learning (based on Xception) binary classification model trained on TensorFlow cat or dog dataset.
+    - No weight for this one, because it is exceeds the GitHub file size.
+    - Training is pretty quick, though, because most of the training has already been done.
