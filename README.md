@@ -29,9 +29,11 @@ There are 3 models here.
 
 ## CNNs
 
-There is 1 model here.
+There are 3 models here.
 
 1. Classification model based on the Fashion MNIST dataset (~91.5% accuracy).
+2. Classification model based on the CIFAR-10 dataset (~80% accuracy).
+    - I trained this for only 14 epochs, because it was taking too long. If you train it for 50-100 epochs, it could probably achieve 92-93% accuracy. 
 2. Transfer learning (based on Xception) binary classification model trained on TensorFlow cat or dog dataset (~96% accuracy).
     - No weight for this one, because it exceeds the GitHub file size.
     - Training is pretty quick, though, because most of the training has already been done.
