@@ -23,7 +23,7 @@ model = tf.keras.models.load_model("model_filename.keras")
 Model positions the best models (for their respective tasks) would have on the [Papers with Code](https://paperswithcode.com/) leaderboard as of April 7, 2025
 
 
-| Model             | Accuracy (%) | World Ranking |
+| Model             | Accuracy (%) | Ranking |
 | ----------------- | ------------ | ------------- |
 | Fashion MNIST CNN | 91.78        | 15th          |
 | MNIST ANN         | 98.44        | 53rd          |
