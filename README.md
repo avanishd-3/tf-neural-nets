@@ -27,7 +27,7 @@ Model positions the best models (for their respective tasks) would have on the [
 | ----------------- | ------------ | ------------- |
 | Fashion MNIST CNN | 91.78        | 15th          |
 | MNIST ANN         | 98.44        | 53rd          |
-| CIFAR-10 CNN      | 79.75        | 249th         |
+| CIFAR-10 CNN      | 81.12        | 245th         |
 
 
 ## ANNs
@@ -44,8 +44,7 @@ There are 3 models here.
 There are 3 models here.
 
 1. Classification model based on the Fashion MNIST dataset (~91.78% accuracy).
-2. Classification model based on the CIFAR-10 dataset (~79.75% accuracy).
-    - I trained this for only 14 epochs, because it was taking too long. If you train it for 50-100 epochs, it could probably achieve 92-93% accuracy. 
-2. Transfer learning (based on Xception) binary classification model trained on TensorFlow cat or dog dataset (~95.53% accuracy).
+2. Classification model based on the CIFAR-10 dataset (~81.12% accuracy).
+3. Transfer learning (based on Xception) binary classification model trained on TensorFlow cat or dog dataset (~95.53% accuracy).
     - No weight for this one, because it exceeds the GitHub file size.
     - Training is pretty quick, though, because most of the training has already been done.
