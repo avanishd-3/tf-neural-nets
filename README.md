@@ -45,6 +45,7 @@ There are 3 models here.
 
 1. Classification model based on the Fashion MNIST dataset (~91.78% accuracy).
 2. Classification model based on the CIFAR-10 dataset (~81.12% accuracy).
-3. Transfer learning (based on Xception) binary classification model trained on TensorFlow cat or dog dataset (~95.53% accuracy).
+   - Note: I made a [Transformer-based model](https://huggingface.co/avanishd/vit-base-patch16-224-in21k-finetuned-cifar10) that has a 97.93% accuray after only 1 epoch of training.
+4. Transfer learning (based on Xception) binary classification model trained on TensorFlow cat or dog dataset (~95.53% accuracy).
     - No weight for this one, because it exceeds the GitHub file size.
     - Training is pretty quick, though, because most of the training has already been done.
