@@ -25,9 +25,9 @@ Model positions the best models (for their respective tasks) would have on the [
 
 | Model             | Accuracy (%) | Ranking |
 | ----------------- | ------------ | ------------- |
-| Fashion MNIST CNN | 91.78        | 15th          |
-| MNIST ANN         | 98.44        | 53rd          |
-| CIFAR-10 CNN      | 81.12        | 245th         |
+| Fashion MNIST CNN | 91.78        | 15          |
+| MNIST ANN         | 98.44        | 53          |
+| CIFAR-10 CNN      | 81.12        | 245         |
 
 
 ## ANNs
