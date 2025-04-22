@@ -48,3 +48,9 @@ There are 3 models here.
 3. Transfer learning (based on Xception) binary classification model trained on TensorFlow cat or dog dataset (~95.53% accuracy).
     - No weight for this one, because it exceeds the GitHub file size.
     - Training is pretty quick, though, because most of the training has already been done.
+
+## VAE
+
+There is 1 model here.
+
+1. Image generation VAE model trained on Fashion MNIST
